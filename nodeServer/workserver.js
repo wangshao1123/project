@@ -5,7 +5,7 @@ var url = require("url")
 var fs=require("fs");
 var mysql=require("mysql");
 var db = mysql.createConnection({
-	host:"localhost",
+	host:"127.0.0.1",
 	user:"root",
 	password:"123456",
 	database:"user",
@@ -105,6 +105,18 @@ server.get("/updata",function(request,response){
 			response.end("success");
 		}
 	});
+})
+//查询考勤管理
+server.get("/selcheakon",function(request,response){
+	db.query(`SELECT * FROM checkon`,(error,data)=>{
+		if(error){
+			console.log("查询失败！");
+			response.end("error");
+		}else{
+			console.log("考勤查询成功！");
+			response.end(JSON.stringify(data));
+		}
+	})
 })
 server.use(express.static(__dirname+"/static"));
 // 将服务开启到本地的某个端口上
