@@ -1,0 +1,29 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+.box{
+	background: rgba(64,158,255,0.7);
+}
+.nav{
+    margin-bottom: 20px;
+}
+.tatleh2{
+	background: #409eff;
+	height: 100px;
+	line-height: 100px;
+	padding-left: 20px;
+	margin-top: 0;
+	color: #fff;
+}
+.section{
+	padding : 20px;
+}
+.table{
+	text-align: center;
+	padding-top: 20px;
+}
+.el-table td,.el-table th{
+	text-align: center;
+}
+.pointer{
+	cursor: pointer;
+}

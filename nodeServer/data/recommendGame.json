@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Shadow of the Tomb Raider",
+        "url": "https://store.steampowered.com/app/750920",
+        "gameId": 750920,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 379,
+        "price": 379,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/750920/capsule_616x353.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/750920/ss_191adc1f11bf9d13498cb411ac71f29221732e86.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/750920/ss_8907e0a624a1113be01fa1b426d0e3ab0971e7d2.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/750920/ss_3fcd62a2831bcc1e557a0fe2a061b6369ba030d1.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2018-9-15",
+        "evaluate": 1,
+        "evaluatingCount": 1881,
+        "label": [
+            "冒险",
+            "劳拉·克莱馥",
+            "女主人翁",
+            "动作",
+            "解密"
+        ]
+    },{
+        "name": "Two Point Hospital",
+        "url": "https://store.steampowered.com/app/535930",
+        "gameId": 535930,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 158,
+        "price": 158,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/535930/ss_498bdab4baf27defd280d181bc79e1a2f78f4bba.600x338.jpg?t=1537126962",
+            "https://steamcdn-a.akamaihd.net/steam/apps/535930/ss_239c16a6a0faf1463d043503a828a1e443bd8d70.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/535930/ss_37b485ac8c86b35d0d28afbb9d2f8370db45c87c.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/535930/ss_513fe00a570aae8aa17f0c7c34441d900ecea67d.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2018-8-30",
+        "evaluate": 3,
+        "evaluatingCount": 3067,
+        "label": [
+            "模拟",
+            "管理",
+            "建造",
+            "单人",
+            "搞笑",
+            "策略",
+            "欢乐",
+            "独立",
+            "沙盒",
+            "休闲",
+            "经典"
+        ]
+    },
+    {
+        "name": "ReCore: Definitive Edition",
+        "url": "https://store.steampowered.com/app/537450",
+        "gameId": 537450,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 64,
+        "price": 64,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/537450/capsule_616x353.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/537450/ss_7ad5123336c179ba04bf378999ed22169ff8ee23.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/537450/ss_0b2ba7b7513c97e4b8bb84134e3d99d19ce9f88b.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/537450/ss_1ad06afc1c61b24ecdb113c5d38da9e092ef3d61.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2018-9-15",
+        "evaluate": 3,
+        "evaluatingCount": 68,
+        "label": [
+            "冒险",
+            "动作",
+            "女主人翁",
+            "第三人称射击",
+            "3D平台"
+        ]
+    },
+    {
+        "name": "Assassin's Creed® Syndicate",
+        "url": "https://store.steampowered.com/app/368500",
+        "gameId": 368500,
+        "isSale": true,
+        "discount": 0.6,
+        "originPrice": 168,
+        "price": 67,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/368500/capsule_616x353.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/368500/ss_349dc173bd543fddd7b667253e3429e9565fe098.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/368500/ss_851199df5f2f2d44b4a8125e854af27d6204c1b6.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/368500/ss_80c48aa2d827a9864180db0169413046bddb2035.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2015-11-19",
+        "evaluate": 3,
+        "evaluatingCount": 7578,
+        "label": [
+            "暗杀",
+            "开放世界",
+            "动作",
+            "跑酷",
+            "潜行",
+            "历史",
+            "冒险"
+        ]
+    },
+    {
+        "name": "Besiege",
+        "url": "https://store.steampowered.com/app/346010",
+        "gameId": 346010,
+        "isSale": true,
+        "discount": 0.42,
+        "originPrice": 24,
+        "price": 14,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/346010/capsule_616x353_alt_assets_0_schinese.jpg",
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/346010/ss_9fe75fccba08bfb18338f8833b030775a30b3685.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/346010/ss_9fe75fccba08bfb18338f8833b030775a30b3685.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/346010/ss_922d27a19a98dd259e23b6f82901728da1e91bb8.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2015-11-19",
+        "evaluate": 3,
+        "evaluatingCount": 7578,
+        "label": [
+            "暗杀",
+            "开放世界",
+            "动作",
+            "跑酷",
+            "潜行",
+            "历史",
+            "冒险"
+        ]
+    },
+    {
+        "name": "Human: Fall Flat",
+        "url": "https://store.steampowered.com/app/477160",
+        "gameId": 477160,
+        "isSale": false,
+        "discount": 0,
+        "originPrice": 48,
+        "price": 48,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/477160/capsule_616x353.jpg?t=1535730173",
+            "https://steamcdn-a.akamaihd.net/steam/apps/477160/ss_ae83227506e0434942c6b9eacf1b771342c9705d.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/477160/ss_bc87677b5a5d9f9041feb22e9a0a2e98051c4b6b.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/477160/ss_4cb369df645490d6597f7d3acf9133bb477cae1f.600x338.jpg"
+        ],
+        "platform": [
+            "Windows",
+            "Mac OS",
+            "Steam"
+        ],
+        "date": "2016-7-23",
+        "evaluate": 1,
+        "evaluatingCount": 15587,
+        "label": [
+            "搞笑",
+            "多人",
+            "物理",
+            "合作",
+            "解谜",
+            "独立",
+            "单机合作",
+            "冒险",
+            "平台解谜",
+            "单机多人",
+            "沙盒",
+            "跑酷",
+            "开放世界",
+            "欢乐",
+            "分屏",
+            "单人",
+            "休闲",
+            "3D平台",
+            "模拟",
+            "生存"
+        ]
+    },
+    {
+        "name": "Arma 3",
+        "url": "https://store.steampowered.com/app/107410",
+        "gameId": 107410,
+        "isSale": true,
+        "discount": 0.66,
+        "originPrice": 149,
+        "price": 50,
+        "imgUrl": [
+            "https://cdn.steamstatic.com.8686c.com/steam/apps/107410/capsule_616x353_schinese.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/107410/ss_1e3cd97e67e8bba23a6bb40d41a543b1b29c9b5a.600x338.jpg",
+            "https://steamcdn-a.akamaihd.net/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.600x338.jpg"
+        ],
+        "platform": [
+            "Windows"
+        ],
+        "date": "2013-9-12",
+        "evaluate": 2,
+        "evaluatingCount": 73919,
+        "label": [
+            "模拟",
+            "军事",
+            "多人",
+            "开放世界",
+            "拟真",
+            "战术",
+            "动作",
+            "第一人称射击",
+            "战争",
+            "策略",
+            "沙盒",
+            "射击",
+            "合作",
+            "可模组化",
+            "团队导向",
+            "在线合作",
+            "第三人称射击",
+            "单人",
+            "第一人称视角",
+            "TrackIR"
+        ]
+    }
+]
